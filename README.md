@@ -69,6 +69,12 @@ Participating in the GFG160 DSA Challenge helps me:
 
 ---
 
+## License
+
+This repository is licensed under the [MIT License](./LICENSE). You are free to use this code for personal or educational purposes. See the `LICENSE` file for more details.
+
+---
+
 ## Contact
 
 If you have any questions or suggestions, feel free to reach out:
