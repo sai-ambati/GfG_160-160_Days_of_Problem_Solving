@@ -9,7 +9,7 @@ The aim is to strengthen problem-solving skills and build a strong coding portfo
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
 ![Python](https://img.shields.io/badge/Language-Python-green)
-![Days Completed](https://img.shields.io/badge/Days_Completed-9%2F160-brightgreen)
+![Days Completed](https://img.shields.io/badge/Days_Completed-10%2F160-brightgreen)
 
 ---
 
@@ -34,6 +34,7 @@ Each folder in this repository corresponds to a specific day of the challenge an
 | Day 7 | Stock Buy and Sell – Multiple Transaction Allowed | https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/stock-buy-and-sell2615 |
 | Day 8 | Stock Buy and Sell – Max one Transaction Allowed | https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/buy-stock-2 |
 | Day 9 | Minimize the Heights II | https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/minimize-the-heights3351 |
+| Day 10 | Maximum Product Subarray | https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/maximum-product-subarray3604 |
 | ...  | ...                      | ...                            |
 
 ---
